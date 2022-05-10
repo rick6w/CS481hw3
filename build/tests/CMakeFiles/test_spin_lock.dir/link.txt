@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wredundant-decls -Wcast-align -Wshadow -g  -rdynamic CMakeFiles/test_spin_lock.dir/test_spin_lock.cpp.o  -o test_spin_lock  ../libhw3_ticket_spin.a ../libgoogletest.a -lpthread 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw3_ticket_yield.a  CMakeFiles/hw3_ticket_yield.dir/queue.cpp.o CMakeFiles/hw3_ticket_yield.dir/my_intercept.cpp.o CMakeFiles/hw3_ticket_yield.dir/compute_pi.cpp.o CMakeFiles/hw3_ticket_yield.dir/compute_pi_helper.cpp.o CMakeFiles/hw3_ticket_yield.dir/ticket_yield_lock.cpp.o
+/usr/bin/ranlib libhw3_ticket_yield.a

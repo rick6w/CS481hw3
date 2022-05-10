@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user1/CS481/hw3/hw3-rick6w/lock.hpp
+unistd.h
+-
+pthread.h
+-
+sched.h
+-
+queue.hpp
+/home/user1/CS481/hw3/hw3-rick6w/queue.hpp
+signal.h
+-
+
+/home/user1/CS481/hw3/hw3-rick6w/queue.hpp
+pthread.h
+-
+queue
+-
+
+/home/user1/CS481/hw3/hw3-rick6w/semaphore_lock.cpp
+lock.hpp
+/home/user1/CS481/hw3/hw3-rick6w/lock.hpp
+

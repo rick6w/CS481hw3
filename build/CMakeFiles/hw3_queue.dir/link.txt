@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw3_queue.a  CMakeFiles/hw3_queue.dir/queue.cpp.o CMakeFiles/hw3_queue.dir/my_intercept.cpp.o CMakeFiles/hw3_queue.dir/compute_pi.cpp.o CMakeFiles/hw3_queue.dir/compute_pi_helper.cpp.o CMakeFiles/hw3_queue.dir/queue_lock.cpp.o
+/usr/bin/ranlib libhw3_queue.a

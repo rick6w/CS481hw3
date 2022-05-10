@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wredundant-decls -Wcast-align -Wshadow -g  -rdynamic CMakeFiles/test_lock_yield.dir/test_lock.cpp.o  -o test_lock_yield  ../libhw3_ticket_yield.a ../libgoogletest.a -lpthread 

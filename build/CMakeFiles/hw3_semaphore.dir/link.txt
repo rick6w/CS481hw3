@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw3_semaphore.a  CMakeFiles/hw3_semaphore.dir/queue.cpp.o CMakeFiles/hw3_semaphore.dir/my_intercept.cpp.o CMakeFiles/hw3_semaphore.dir/compute_pi.cpp.o CMakeFiles/hw3_semaphore.dir/compute_pi_helper.cpp.o CMakeFiles/hw3_semaphore.dir/semaphore_lock.cpp.o
+/usr/bin/ranlib libhw3_semaphore.a

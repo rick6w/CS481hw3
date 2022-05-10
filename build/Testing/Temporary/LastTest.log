@@ -1,0 +1,255 @@
+Start testing: May 07 23:39 MDT
+----------------------------------------------------------
+1/10 Testing: TestPI
+1/10 Test: TestPI
+Command: "/home/user1/CS481/hw3/hw3-rick6w/build/tests/test_pi"
+Directory: /home/user1/CS481/hw3/hw3-rick6w/build/tests
+"TestPI" start time: May 07 23:39 MDT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TLBTest
+[ RUN      ] TLBTest.TestsIntests
+[       OK ] TLBTest.TestsIntests (1945 ms)
+[----------] 1 test from TLBTest (1946 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1950 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.99 sec
+----------------------------------------------------------
+Test Passed.
+"TestPI" end time: May 07 23:39 MDT
+"TestPI" time elapsed: 00:00:01
+----------------------------------------------------------
+
+2/10 Testing: TestPIUneven
+2/10 Test: TestPIUneven
+Command: "/home/user1/CS481/hw3/hw3-rick6w/build/tests/test_pi_uneven"
+Directory: /home/user1/CS481/hw3/hw3-rick6w/build/tests
+"TestPIUneven" start time: May 07 23:39 MDT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TLBTest
+[ RUN      ] TLBTest.TestsIntests
+[       OK ] TLBTest.TestsIntests (4 ms)
+[----------] 1 test from TLBTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TestPIUneven" end time: May 07 23:39 MDT
+"TestPIUneven" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/10 Testing: TestPIYield
+3/10 Test: TestPIYield
+Command: "/home/user1/CS481/hw3/hw3-rick6w/build/tests/test_pi_yield"
+Directory: /home/user1/CS481/hw3/hw3-rick6w/build/tests
+"TestPIYield" start time: May 07 23:39 MDT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TLBTest
+[ RUN      ] TLBTest.TestsIntests
+[       OK ] TLBTest.TestsIntests (2153 ms)
+[----------] 1 test from TLBTest (2153 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (2154 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   2.20 sec
+----------------------------------------------------------
+Test Passed.
+"TestPIYield" end time: May 07 23:39 MDT
+"TestPIYield" time elapsed: 00:00:02
+----------------------------------------------------------
+
+4/10 Testing: TestSpinLock
+4/10 Test: TestSpinLock
+Command: "/home/user1/CS481/hw3/hw3-rick6w/build/tests/test_spin_lock"
+Directory: /home/user1/CS481/hw3/hw3-rick6w/build/tests
+"TestSpinLock" start time: May 07 23:39 MDT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TLBTest
+[ RUN      ] TLBTest.TestsIntests
+[       OK ] TLBTest.TestsIntests (0 ms)
+[----------] 1 test from TLBTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TestSpinLock" end time: May 07 23:39 MDT
+"TestSpinLock" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: TestYieldLock
+5/10 Test: TestYieldLock
+Command: "/home/user1/CS481/hw3/hw3-rick6w/build/tests/test_yield_lock"
+Directory: /home/user1/CS481/hw3/hw3-rick6w/build/tests
+"TestYieldLock" start time: May 07 23:39 MDT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TLBTest
+[ RUN      ] TLBTest.TestsIntests
+[       OK ] TLBTest.TestsIntests (0 ms)
+[----------] 1 test from TLBTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"TestYieldLock" end time: May 07 23:39 MDT
+"TestYieldLock" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: TestSemaphoreLock
+6/10 Test: TestSemaphoreLock
+Command: "/home/user1/CS481/hw3/hw3-rick6w/build/tests/test_semaphore_lock"
+Directory: /home/user1/CS481/hw3/hw3-rick6w/build/tests
+"TestSemaphoreLock" start time: May 07 23:39 MDT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TLBTest
+[ RUN      ] TLBTest.TestsIntests
+[       OK ] TLBTest.TestsIntests (0 ms)
+[----------] 1 test from TLBTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TestSemaphoreLock" end time: May 07 23:39 MDT
+"TestSemaphoreLock" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: TestQueueLock
+7/10 Test: TestQueueLock
+Command: "/home/user1/CS481/hw3/hw3-rick6w/build/tests/test_queue_lock"
+Directory: /home/user1/CS481/hw3/hw3-rick6w/build/tests
+"TestQueueLock" start time: May 07 23:39 MDT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TLBTest
+[ RUN      ] TLBTest.TestsIntests
+[       OK ] TLBTest.TestsIntests (0 ms)
+[----------] 1 test from TLBTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TestQueueLock" end time: May 07 23:39 MDT
+"TestQueueLock" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/10 Testing: TestCorrectnessYield
+8/10 Test: TestCorrectnessYield
+Command: "/home/user1/CS481/hw3/hw3-rick6w/build/tests/test_lock_yield"
+Directory: /home/user1/CS481/hw3/hw3-rick6w/build/tests
+"TestCorrectnessYield" start time: May 07 23:39 MDT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TLBTest
+[ RUN      ] TLBTest.TestsIntests
+Ticket 1000, Turn 1000, Global Sum 1000
+Ticket 2000, Turn 2000, Global Sum 2000
+[       OK ] TLBTest.TestsIntests (1 ms)
+[----------] 1 test from TLBTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TestCorrectnessYield" end time: May 07 23:39 MDT
+"TestCorrectnessYield" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/10 Testing: TestCorrectnessSemaphore
+9/10 Test: TestCorrectnessSemaphore
+Command: "/home/user1/CS481/hw3/hw3-rick6w/build/tests/test_semaphore"
+Directory: /home/user1/CS481/hw3/hw3-rick6w/build/tests
+"TestCorrectnessSemaphore" start time: May 07 23:39 MDT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TLBTest
+[ RUN      ] TLBTest.TestsIntests
+[       OK ] TLBTest.TestsIntests (1002 ms)
+[----------] 1 test from TLBTest (1003 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1004 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.05 sec
+----------------------------------------------------------
+Test Passed.
+"TestCorrectnessSemaphore" end time: May 07 23:39 MDT
+"TestCorrectnessSemaphore" time elapsed: 00:00:01
+----------------------------------------------------------
+
+10/10 Testing: TestAddPopQueue
+10/10 Test: TestAddPopQueue
+Command: "/home/user1/CS481/hw3/hw3-rick6w/build/tests/test_queue"
+Directory: /home/user1/CS481/hw3/hw3-rick6w/build/tests
+"TestAddPopQueue" start time: May 07 23:39 MDT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TLBTest
+[ RUN      ] TLBTest.TestsIntests
+[       OK ] TLBTest.TestsIntests (4 ms)
+[----------] 1 test from TLBTest (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TestAddPopQueue" end time: May 07 23:39 MDT
+"TestAddPopQueue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 07 23:39 MDT

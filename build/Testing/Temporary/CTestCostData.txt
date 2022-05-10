@@ -1,0 +1,11 @@
+TestPI 2 0.99385
+TestPIUneven 2 0.00937822
+TestPIYield 2 1.09819
+TestSpinLock 3 0.00508806
+TestYieldLock 3 0.0161246
+TestSemaphoreLock 1 0.028854
+TestQueueLock 3 0.00628772
+TestCorrectnessYield 3 0.00563538
+TestCorrectnessSemaphore 1 1.05364
+TestAddPopQueue 3 0.00640052
+---

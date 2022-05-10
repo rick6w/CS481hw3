@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw3_mutex.a  CMakeFiles/hw3_mutex.dir/queue.cpp.o CMakeFiles/hw3_mutex.dir/my_intercept.cpp.o CMakeFiles/hw3_mutex.dir/compute_pi.cpp.o CMakeFiles/hw3_mutex.dir/compute_pi_helper.cpp.o CMakeFiles/hw3_mutex.dir/mutex_lock.cpp.o
+/usr/bin/ranlib libhw3_mutex.a

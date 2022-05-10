@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw3_ticket_spin.a  CMakeFiles/hw3_ticket_spin.dir/queue.cpp.o CMakeFiles/hw3_ticket_spin.dir/my_intercept.cpp.o CMakeFiles/hw3_ticket_spin.dir/compute_pi.cpp.o CMakeFiles/hw3_ticket_spin.dir/compute_pi_helper.cpp.o CMakeFiles/hw3_ticket_spin.dir/ticket_spin_lock.cpp.o
+/usr/bin/ranlib libhw3_ticket_spin.a
